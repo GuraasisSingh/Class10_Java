@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Overloading
+comment0.text=\r\n\ Rules\ of\ overloading\ \:\r\n\ The\ method\ names\ have\ to\ be\ the\ same\r\n\ The\ return\ type\ doesn't\ matter\r\n\ The\ signatures(arguments)\ have\ to\ be\ different\ in\ terms\ of\:\r\n\ either\ 1.number\ of\ arguments\:\r\n\ add(int\ )\r\n\ add(int\ ,int)\r\n\ add(int\ ,int\ ,int)\r\n\ or\ 2.types\ of\ arguments\:\r\n\ add(int\ ,\ int)\r\n\ add(long\ ,long)\r\n\ or\ 3.order/arrangement\ of\ arguments\:\r\n\ add(int\ ,long)\r\n\ add(long\ ,int)\r\n\ example\ of\ not\ overloaded\:\r\n\ add(int\ a,int\ b)\r\n\ add(int\ m,int\ n)\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=a\ b
+comment2.target=void\ add(int,\ int)
+comment3.params=a\ b
+comment3.target=void\ add(long,\ long)
+numComments=4

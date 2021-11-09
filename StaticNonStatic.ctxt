@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StaticNonStatic
+comment0.text=\r\n\ Static\ can\ access\ static\ only\r\n\ Member(Non-Static)\ can\ access\ anything\r\n\ Static\ can\ indirectly\ access\ non-static\ via\ an\ object\r\n
+comment1.params=
+comment1.target=void\ add()
+comment2.params=
+comment2.target=void\ show()
+numComments=3

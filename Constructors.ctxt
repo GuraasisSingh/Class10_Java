@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Constructors
+comment0.text=\ Demo\ d;//reference\ created\r\n\ new\ Demo();//object\ created\r\n\ Demo()\ is\ contructor\ ->building\ objects\r\n\ Contructor\ characteristics\:-\r\n\ 1.It\ is\ a\ method\ \r\n\ 2.Has\ the\ same\ as\ the\ class\ name\r\n\ 3.Has\ no\ return\ type,\ not\ even\ void\ \r\n\ 4.\ It\ is\ automatically\ executed\ when\ object\ is\ to\ be\ created\r\n\ 5.If\ you\ dont\ create\ a\ constructor,\ java\ provides\ one(default\ constructor)\r\n\ 6.It\ can\ be\ overloaded.\r\n\ 7.If\ you\ create\ an\ overloaded\ constructor,java\ doesn't\ provide\ the\ default\ one.\r\n\ 8.Do?\ It\ creates\ objects\ and\ perform\ any\ initial\ task.\r\n\ \ \ \ \ \ \r\nAll\ instance\ variables\ should\ be\ private\ and\ non-static\r\nAll\ methods\ should\ be\ public\ and\ non-static\r\nconstructors\ should\ be\ public\ and\ non-static\r\nmain()\ should\ be\ public\ and\ static\r\n\r\nCan\ a\ method\ be\ private?\r\nYes,\ when\ it\ is\ not\ supposed\ to\ be\ visible\ to\ outside\ world\r\n\r\nCan\ a\ constructor\ be\ private?\r\nYes.\r\n\r\nShould\ a\ constructor\ be\ private?\r\nNo.\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

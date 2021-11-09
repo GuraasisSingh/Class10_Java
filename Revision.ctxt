@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Revision
+comment1.params=
+comment1.target=void\ show()
+comment1.text=static\ void\ numSystem()\r\n\ \ \ {\r\n\ \ \ \ \ \ \ int\ x\=2_3_4;//ignores\ underscore\r\n\ \ \ \ \ \ \ System.out.println(x);\r\n\ \ \ \ \ \ \ x\=0x23;\r\n\ \ \ \ \ \ \ System.out.println(x);\r\n\ \ \ \ \ \ \ x\=0b1101;\r\n\ \ \ \ \ \ \ System.out.println(x);\r\n\ \ \ \ \ \ \ x\=0123;\r\n\ \ \ \ \ \ \ System.out.println(x);\r\n\ \ \ \ \ \ \ double\ d\=\ 0.0d;\r\n\ \ \ \ \ \ \ d\=0.0f;\r\n\ \ \ \ \ \ \ //long\ g\=\ 2.3f;\ throws\ error\r\n\ \ \ \ \ \ \ //1\ byte\=\ 8\ bits\r\n\ \ \ \ \ \ \ //1\ short\ \=16\ bits\ or\ 2\ bytes\r\n\ \ \ \ \ \ \ //1\ char\=\ 16\ bits\ or\ 2\ bytes\r\n\ \ \ \ \ \ \ //1\ int\ \=\ 32\ bits\ or\ 4\ bytes\r\n\ \ \ \ \ \ \ //1\ long\ \=\ 64\ bits\ or\ 8\ bytes\r\n\ \ \ \ \ \ \ //1\ float\ \=32\ bits\ or\ 4\ bytes\r\n\ \ \ \ \ \ \ //1\ double\ \=\ 64\ bits\ or\ 8\ bytes\r\n\ \ \ \ \ \ \ //1\ boolean\ \=\ 1\ bit\ as\ usage\ but\ storage\ of\ 1\ byte\ or\ 8\ bits\r\n\ \ \ \ \ \ \ //Precedence\r\n\ \ \ \ \ \ \ //higher\ to\ lower\r\n\ \ \ \ \ \ \ //String>double>float>long>int>short>byte\r\n}
+comment2.params=
+comment2.target=void\ stringMethods()
+comment3.params=
+comment3.target=void\ compareToMethod()
+numComments=4
