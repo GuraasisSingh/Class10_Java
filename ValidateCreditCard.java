@@ -153,7 +153,7 @@ class ValidateCreditCard
         else 
         System.out.println("Invalid Card Number. ");
     }
-    public static void main() throws IOException
+    public static void main(String[] args) throws IOException
     {   
         ValidateCreditCard cc1=new ValidateCreditCard();
         cc1.set();
