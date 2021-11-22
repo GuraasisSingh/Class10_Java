@@ -74,6 +74,18 @@ else
     Statement2
 }
 
+Method definition:
+void main ()
+{
+    
+}
+1.return type
+2.name
+3.arguments(values passed to methods)
+4.body{}
+
+
+
 
  */
 public class RevExam

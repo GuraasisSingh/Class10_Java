@@ -1,4 +1,3 @@
-
 /** Demo d;//reference created
  * new Demo();//object created
  * Demo() is contructor ->building objects

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Method
+comment0.text=\r\n\r\nMethod\ definition\:\r\nvoid\ main\ ()\r\n{\r\n\r\n}\r\n1.return\ type\r\n2.name\r\n3.arguments(values\ passed\ to\ methods)\r\n4.body{}\r\n\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s
+comment2.target=void\ sayHello(java.lang.String)
+comment3.params=
+comment3.target=void\ doSomething()
+comment4.params=s
+comment4.target=void\ saySomething(java.lang.String)
+numComments=5
