@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=HandCricket
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s\ s1
+comment2.target=int\ gaming(java.lang.String,\ java.lang.String)
+numComments=3
