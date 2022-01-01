@@ -49,11 +49,13 @@ public class GoldenGolfClubShoppe
             System.out.print("You have "+ gc.numgolf +" Golf Clubs. How many to add?");
             add=s.nextInt();
             gc.add_GolfClubs(add);
+            System.out.println("You now have "+gc.numgolf+" Golf Clubs.");
             break;
             case 2:
             System.out.print("You have "+ gc.numgolf +" Golf Clubs. How many to remove?");
             remove=s.nextInt();
             gc.remove_GolfClubs(remove);
+            System.out.println("You now have "+gc.numgolf+" Golf Clubs.");
             break;
             case 3:
             gc.view_order();
