@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CompuAssign8
+comment0.text=\r\n\ Write\ a\ program\ to\ take\ an\ array\ and\ find\ the\ sum\ of\ the\ first\ half\ of\ the\ array\ and\ sum\ of\ the\ second\ half\ of\ the\ array.\r\n\ e.g.\ if\ the\ array\ is\ {1,2,3,4,5,6}\ then\ the\ sum\ of\ the\ first\ half\ is\ 1+2+3\=6\ and\ the\ sum\ of\ the\ second\ half\ is\ 4+5+6\=15\r\n\ If\ the\ number\ of\ elements\ in\ the\ array\ is\ odd,then\ the\ middle\ element\ goes\ to\ the\ first\ half.\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

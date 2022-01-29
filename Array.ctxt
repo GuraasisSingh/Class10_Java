@@ -1,0 +1,37 @@
+#BlueJ class context
+comment0.target=Array
+comment0.text=\r\n\ Array\ is\ collection\ of\ data\ of\ same\ type.\r\n\ int\ g[](creates\ a\ referece\ in\ the\ memory)\=new\ int[4];(allocates\ memory\ to\ the\ reference)\r\n\ This\ creates\ a\ blank\ array.\r\n\ int\ g[]\={2,5,4,3,2};\r\n\ This\ creates\ an\ array\ with\ values\r\n\ Acessing\ the\ elements\ of\ an\ array\:\r\n\ int\ m[]\=new\ int[5];\r\n\ m[3]\=6;\r\n\ m[0]\=4;\r\n\ System.out.println(m[0]);//4\r\n\ Length\ of\ an\ array\ ->\ m.length\r\n\ Display\ an\ Array\:\r\n\ for(int\ x\=0;x<n.length;x++)\r\n\ \ \ System.out.println(n[x]);\r\n
+comment1.params=
+comment1.target=void\ sumArray()
+comment10.params=
+comment10.target=void\ binarySearch()
+comment11.params=
+comment11.target=void\ stringBinarySearch()
+comment12.params=
+comment12.target=void\ arrayCopy()
+comment13.params=
+comment13.target=void\ additionalElement()
+comment14.params=
+comment14.target=void\ findUnique()
+comment15.params=
+comment15.target=void\ findCommon()
+comment16.params=
+comment16.target=void\ findUnion()
+comment2.params=
+comment2.target=void\ highestInArray()
+comment3.params=
+comment3.target=void\ highestOddAndEven()
+comment4.params=
+comment4.target=void\ firstEvenNum()
+comment5.params=
+comment5.target=void\ stringStartsWith()
+comment6.params=
+comment6.target=void\ oddSumArray()
+comment7.params=
+comment7.target=void\ sumInHalves()
+comment7.text=\r\n\ Write\ a\ program\ to\ take\ an\ array\ and\ find\ the\ sum\ of\ the\ first\ half\ of\ the\ array\ and\ sum\ of\ the\ second\ half\ of\ the\ array.\r\n\ e.g.\ if\ the\ array\ is\ {1,2,3,4,5,6}\ then\ the\ sum\ of\ the\ first\ half\ is\ 1+2+3\=6\ and\ the\ sum\ of\ the\ second\ half\ is\ 4+5+6\=15\r\n\ If\ the\ number\ of\ elements\ in\ the\ array\ is\ odd,then\ the\ middle\ element\ goes\ to\ the\ first\ half.\r\n
+comment8.params=
+comment8.target=void\ linearSearch()
+comment9.params=
+comment9.target=void\ stringLinearSearch()
+numComments=17
